@@ -5,6 +5,7 @@ This repository contains my static portfolio website built using HTML and CSS, v
 The purpose of this project is to demonstrate my cloud fundamentals, deployment workflow, and hands-on experience with AWS services.
 
 📌 Project Overview
+<img width="292" height="161" alt="image" src="https://github.com/user-attachments/assets/e63fee73-e4bb-4f9c-9e6d-5840f20be46b" />
 
 Built a static portfolio website
 
